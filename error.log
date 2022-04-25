@@ -1,0 +1,12 @@
+[Mon Apr 25 00:00:07.127567 2022] [mpm_prefork:notice] [pid 9820] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon Apr 25 00:00:07.127648 2022] [core:notice] [pid 9820] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Apr 25 00:05:39.395243 2022] [php7:error] [pid 52560] [client 162.158.170.6:59232] script '/var/www/html/wp-login.php' not found or unable to stat
+[Mon Apr 25 02:03:10.472656 2022] [php7:error] [pid 52556] [client 162.158.170.6:27020] script '/var/www/html/xmlrpc.php' not found or unable to stat
+[Mon Apr 25 03:25:39.398570 2022] [php7:error] [pid 52560] [client 172.70.142.46:58688] script '/var/www/html/xmlrpc.php' not found or unable to stat
+[Mon Apr 25 06:48:12.236436 2022] [php7:error] [pid 52560] [client 172.70.174.108:51910] script '/var/www/html/xmlrpc.php' not found or unable to stat
+[Mon Apr 25 06:52:07.330440 2022] [php7:error] [pid 52558] [client 172.68.210.44:19662] script '/var/www/html/xmlrpc.php' not found or unable to stat
+[Mon Apr 25 07:08:18.931659 2022] [php7:error] [pid 52560] [client 172.70.147.46:21480] script '/var/www/html/xmlrpc.php' not found or unable to stat
+[Mon Apr 25 09:46:03.987394 2022] [authz_core:error] [pid 55490] [client 45.33.101.246:37328] AH01630: client denied by server configuration: /var/www/html/server-status
+[Mon Apr 25 09:46:14.021578 2022] [php7:error] [pid 52581] [client 45.33.101.246:53106] script '/var/www/html/admin.php' not found or unable to stat
+[Mon Apr 25 10:21:02.814830 2022] [php7:error] [pid 52557] [client 141.101.105.120:36874] script '/var/www/html/xmlrpc.php' not found or unable to stat
+[Mon Apr 25 13:40:51.801267 2022] [php7:error] [pid 52558] [client 172.70.147.46:34340] script '/var/www/html/wp-login.php' not found or unable to stat
